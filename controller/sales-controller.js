@@ -1,5 +1,5 @@
 import SalesUser from "../Models/user-schema.js";
-import SalesUserSales from "../Models/sales-schema.js";
+import SalesUserSales from "../Models/sales-schema.js"
 
 
 const addsales=async(req,res)=>{
